@@ -1,5 +1,5 @@
 Summary:	Pack of themes for IceWM
-Summary(pl):	Zestaw tematów dla IceWM-a
+Summary(pl):	Zestaw motywów dla IceWM-a
 Name:		icewm-themes-pack2
 Version:	1.0
 Release:	3
@@ -41,8 +41,8 @@ This is a set of 25 themes for IceWM. Themes authors:
 - Spring - Roland Buehlmann <http://www.trash.net/~orlando/>
 
 %description -l pl
-Jest to zestaw 25 tematów do uprzyjemnienia wygl±du twojego IceWM-a.
-Autorzy tematów:
+Jest to zestaw 25 motywów do uprzyjemnienia wygl±du twojego IceWM-a.
+Autorzy motywów:
 - Implants (MJ-4) - RudeSka
 - Infadel - Xerithane
 - IronGrey - isutt <funghi@linuxbr.com.br>
