@@ -6,6 +6,7 @@ Release:	3
 License:	GPL (?)
 Group:		Themes
 Source0:	%{name}.tar.gz
+# Source0-md5:	e01cebbf12bffe3ee9c905f755fdb4ec
 Requires:	icewm
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
