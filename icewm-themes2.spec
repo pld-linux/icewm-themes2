@@ -2,11 +2,11 @@ Summary:	Pack of themes for IceWM
 Summary(pl):	Zestaw motywów dla IceWM-a
 Name:		icewm-themes2
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL (?)
 Group:		Themes
-Source0:	http://ep09.pld-linux.org/~havner/%{name}.tar.gz
-# Source0-md5:	e01cebbf12bffe3ee9c905f755fdb4ec
+Source0:	http://ep09.pld-linux.org/~havner/%{name}.tar.bz2
+# Source0-md5:	d1d7123802d9d1f6b2ecfae9b664c10d
 Requires:	icewm
 Obsoletes:	icewm-themes-pack2
 BuildArch:	noarch
